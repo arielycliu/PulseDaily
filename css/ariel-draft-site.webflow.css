@@ -2397,7 +2397,7 @@ a {
   order: 0;
   justify-content: center;
   align-items: flex-start;
-  max-width: 35vw;
+  max-width: 45vw;
   padding-top: 0;
   line-height: 0;
   display: flex;
@@ -2655,8 +2655,8 @@ a {
 
 .text-heading.hero-heading {
   color: var(--black);
-  text-align: center;
-  width: 70%;
+  /* text-align: center; */
+  width: 90%;
   font-family: Readex Pro, sans-serif;
   font-size: 2.7rem;
   font-weight: 600;
@@ -2882,7 +2882,7 @@ a {
 }
 
 .text-blurb.hero {
-  text-align: center;
+  /* text-align: center; */
   width: 60%;
   margin-top: 10px;
   margin-bottom: 30px;
@@ -5014,8 +5014,8 @@ a {
   grid-column-gap: 12px;
   grid-row-gap: 12px;
   flex-flow: wrap;
-  justify-content: center;
-  width: 50%;
+  /* justify-content: center; */
+  width: 70%;
   display: flex;
 }
 
